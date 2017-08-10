@@ -136,7 +136,6 @@ public class ProductManagerController {
         }else{
             return ServerResponse.createByErrorMessage("无权限操作");
         }
-
     }
 
 
